@@ -25,7 +25,7 @@
 
 
 <div class="tm-home-img-container">
-    <img src="http://r.photo.store.qq.com/psb?/V14KsrdD4aIFXH/xInObKw92AsO3y2E8N8IY3MafwtYTnmRjVN8GSP1wVY!/r/dN8AAAAAAAAA" alt="Image" class="hidden-lg-up img-fluid">
+    <%--<img src="http://r.photo.store.qq.com/psb?/V14KsrdD4aIFXH/xInObKw92AsO3y2E8N8IY3MafwtYTnmRjVN8GSP1wVY!/r/dN8AAAAAAAAA" alt="Image" class="hidden-lg-up img-fluid">--%>
 </div>
 
 <section class="tm-section">
