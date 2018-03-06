@@ -11,7 +11,7 @@
     <meta name="Description" content="古今易学风水,易学风水,古今风水,苗琪,苗琪易学风水">
 
     <title>${siteName}</title>
-    <link rel="stylesheet" href="http://fonts.useso.com/css?family=Open+Sans:300,400">  <!-- Google web font "Open Sans" -->
+    <%--<link rel="stylesheet" href="http://fonts.useso.com/css?family=Open+Sans:300,400">  <!-- Google web font "Open Sans" -->--%>
     <link rel="stylesheet" href="${contextPath}/static/css/bootstrap.min.css">                                      <!-- Bootstrap style -->
     <link rel="stylesheet" href="${contextPath}/static/css/templatemo-style.css">                                   <!-- Templatemo style -->
 

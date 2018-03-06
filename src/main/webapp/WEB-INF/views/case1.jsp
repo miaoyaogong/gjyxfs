@@ -16,7 +16,7 @@
     http://www.cssmoban.com/tm-488-classic
     -->
     <!-- load stylesheets -->
-    <link rel="stylesheet" href="http://fonts.useso.com/css?family=Open+Sans:300,400">  <!-- Google web font "Open Sans" -->
+    <%--<link rel="stylesheet" href="http://fonts.useso.com/css?family=Open+Sans:300,400">  <!-- Google web font "Open Sans" -->--%>
     <link rel="stylesheet" href="${contextPath}/static/css/bootstrap.min.css">                                      <!-- Bootstrap style -->
     <link rel="stylesheet" href="${contextPath}/static/css/templatemo-style.css">                                   <!-- Templatemo style -->
 
