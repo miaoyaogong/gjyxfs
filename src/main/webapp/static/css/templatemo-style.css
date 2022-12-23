@@ -75,16 +75,16 @@ h2 { font-size: 2.2rem; }
 }
 
 .tm-home-img-container {
-	background-image: url('http://r.photo.store.qq.com/psb?/V14KsrdD4aIFXH/xInObKw92AsO3y2E8N8IY3MafwtYTnmRjVN8GSP1wVY!/r/dN8AAAAAAAAA');
+	background-image: url('../img/home-img.jfif');
 	background-size: auto;
 	background-position: center;
 	background-repeat: no-repeat;
 	height: 500px;
 }
 
-.tm-about-img-container { background-image: url('http://r.photo.store.qq.com/psb?/V14KsrdD4aIFXH/lTfr.0QcSdnUSQvnbopfFjHFqaZtuM3dQFCEOaoFLBA!/r/dAsBAAAAAAAA');	}
-.tm-blog-img-container { background-image: url('http://r.photo.store.qq.com/psb?/V14KsrdD4aIFXH/cxgN0Y*0K9ehU55*5.NXFLIThVzbHE.yelfSE*uEsBg!/r/dG4BAAAAAAAA'); }
-.tm-contact-img-container { background-image: url('http://r.photo.store.qq.com/psb?/V14KsrdD4aIFXH/rKckHkFTKWN5GxEb7D5gFFIxwKXSdQZeX0SC5yWfZc0!/r/dN8AAAAAAAAA'); }
+.tm-about-img-container { background-image: url('../img/about.jfif');	}
+.tm-blog-img-container { background-image: url('../img/blog.jfif'); }
+.tm-contact-img-container { background-image: url('../img/contact.jfif'); }
 
 .tm-about-img-container,
 .tm-blog-img-container,

@@ -10,6 +10,7 @@
     <meta name="Keywords" content="古今易学风水,易学风水,古今风水,苗琪,苗琪易学风水">
     <meta name="Description" content="古今易学风水,易学风水,古今风水,苗琪,苗琪易学风水">
     <meta name="baidu-site-verification" content="ItXnh7QFuc" />
+    <meta name="referrer" content="never">
 
     <title>${siteName}</title>
 
